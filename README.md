@@ -40,8 +40,6 @@ Currently expanding my skills in **cloud computing** & **containerization** to b
 
 ![](https://nirzak-streak-stats.vercel.app/?user=IlyasDev-Quest&theme=dark&hide_border=false)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyasDev-Quest&layout=compact&theme=dark)
-
 ---
 
 ## 🏆 GitHub Trophies
