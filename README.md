@@ -1,16 +1,59 @@
-## Hi there 👋
+# Ilyas Berkani
+<a href="https://www.linkedin.com/in/ilyas-berkani-dev/"><img src="https://skillicons.dev/icons?i=linkedin" width="30"/></a>
+<a href="mailto:ilyas.berkani.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="30"/></a>
 
-<!--
-**IlyasDev-Quest/IlyasDev-Quest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey There 👋 
+I'm a **Software Engineering Student** passionate about **backend development** and building **scalable, maintainable, and well-structured systems**.  
+I thrive on understanding the *"why"* behind technology decisions — from **system design** to writing **clean, SOLID-compliant code**.  
+Currently expanding my skills in **cloud computing** & **containerization** to build production-ready systems.
 
-Here are some ideas to get you started:
+## ⚙️ Tech Stack & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Programming Languages & Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,cs,php" />
+</p>
+
+### 🌐 Web Frameworks & Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,nestjs,dotnet,symfony,react,nextjs" />
+</p>
+
+### 🗄️ Databases, Caching & Modeling
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,redis,uml" />
+</p>
+
+### ☁️ Cloud, Containerization & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,bash,jenkins,ansible" />
+</p>
+
+### 🛠️ Testing & API Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postman" />
+</p>
+
+---
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=IlyasDev-Quest&theme=dark&hide_border=false&count_private=true)  
+
+![](https://nirzak-streak-stats.vercel.app/?user=IlyasDev-Quest&theme=dark&hide_border=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyasDev-Quest&layout=compact&theme=dark)
+
+---
+
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=IlyasDev-Quest&theme=darkhub&margin-w=4)
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=IlyasDev-Quest&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Optimized & polished by ChatGPT 😉 -->
