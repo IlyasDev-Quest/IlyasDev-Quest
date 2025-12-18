@@ -19,17 +19,17 @@ I thrive on understanding the *"why"* behind technology decisions — from **sys
 
 ### 🌐 Web Frameworks & Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,nestjs,dotnet,symfony,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=spring,nestjs,dotnet,symfony,fastapi,react,nextjs" />
 </p>
 
-### 🗄️ Databases, Caching & Modeling
+### 🗄️ Databases, Caching
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,redis,uml" />
 </p>
 
 ### ☁️ Cloud, Containerization & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,bash,jenkins,ansible" />
+  <img src="https://skillicons.dev/icons?i=bash,git,github,gitlab,docker,kubernetes,jenkins,ansible" />
 </p>
 
 ### 🛠️ Testing & API Tools
@@ -41,9 +41,6 @@ I thrive on understanding the *"why"* behind technology decisions — from **sys
 ![](https://github-readme-stats.vercel.app/api?username=IlyasDev-Quest&theme=dark&hide_border=false&count_private=true)  
 
 ![](https://nirzak-streak-stats.vercel.app/?user=IlyasDev-Quest&theme=dark&hide_border=false)
-
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=IlyasDev-Quest&theme=darkhub&margin-w=4)
 
 ---
 
