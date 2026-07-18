@@ -55,7 +55,7 @@ Outside of the terminal, I enjoy playing chess and appreciating the balance of s
 You've scrolled this far—let's connect! 🚀
 
 <p>
-  <a href="https://www.linkedin.com/in/ilyas-berkani-dev/">
+  <a href="https://www.linkedin.com/in/ilyas-berkani/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
   </a>
   &nbsp;
@@ -63,5 +63,3 @@ You've scrolled this far—let's connect! 🚀
     <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
   </a>
 </p>
-
----
