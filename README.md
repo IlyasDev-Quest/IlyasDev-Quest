@@ -4,9 +4,9 @@
 
 ## 👋 About Me
 
-I am a Platform & Cloud Engineer dedicated to building robust, automated systems. I specialize in cloud-native practices and system design, focusing on what differentiates systems that scale effortlessly from those that struggle under load.
+I am a software engineer aspiring to build a career in Platform Engineering and Cloud Computing. I am passionate about designing reliable, automated systems and learning the technologies that power modern cloud-native infrastructure.
 
-I am particularly interested in the intersection of AI and infrastructure, exploring how intelligent systems can introduce adaptability and flexibility in non-deterministic production environments.
+I am particularly interested in Kubernetes, Infrastructure as Code, distributed systems, and the intersection of AI and infrastructure, exploring how intelligent systems can introduce adaptability and flexibility in non-deterministic production environments.
 
 ---
 
