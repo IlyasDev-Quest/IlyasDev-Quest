@@ -1,48 +1,67 @@
-# Ilyas Berkani
-<a href="https://www.linkedin.com/in/ilyas-berkani-dev/"><img src="https://skillicons.dev/icons?i=linkedin" width="30"/></a>
-<a href="mailto:ilyas.berkani.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="30"/></a>
+<p align="center">
+  <img src="./assets/Github Banner.png" alt="Ilyas Berkani Banner" />
+</p>
+
+## 👋 About Me
+
+I am a Platform & Cloud Engineer dedicated to building robust, automated systems. I specialize in cloud-native practices and system design, focusing on what differentiates systems that scale effortlessly from those that struggle under load.
+
+I am particularly interested in the intersection of AI and infrastructure, exploring how intelligent systems can introduce adaptability and flexibility in non-deterministic production environments.
 
 ---
 
-## Hey There 👋 
-I'm a **Software Engineering Student** passionate about **backend development** and building **scalable, maintainable, and well-structured systems**.  
-I thrive on understanding the *"why"* behind technology decisions — from **system design** to writing **clean, SOLID-compliant code**.  
+## 🧠 Engineering Philosophy
 
-🎯 Currently expanding my skills in **cloud computing** & **containerization** to build production-ready systems.
-
-## ⚙️ Tech Stack & Tools
-
-### 💻 Programming Languages & Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,cs,php" />
-</p>
-
-### 🌐 Web Frameworks & Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,nestjs,dotnet,symfony,fastapi,react,nextjs" />
-</p>
-
-### 🗄️ Databases, Caching
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,redis,uml" />
-</p>
-
-### ☁️ Cloud, Containerization & DevOps
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=bash,git,github,gitlab,docker,kubernetes,jenkins,ansible" />
-</p>
-
-### 🛠️ Testing & API Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postman" />
-</p>
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=IlyasDev-Quest&theme=dark&hide_border=false&count_private=true)  
-
-![](https://nirzak-streak-stats.vercel.app/?user=IlyasDev-Quest&theme=dark&hide_border=false)
+*   **Automate**: Eliminate repetitive, manual work.
+*   **Reliability**: Build systems that are resilient, maintainable, and robust.
+*   **Continuous Growth**: Keep learning every day.
+*   **Depth**: Prefer deep understanding over surface-level memorization.
+*   **Systems Thinking**: Think in integrated systems, not just isolated services.
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## ♟️ Beyond Engineering
+
+Outside of the terminal, I enjoy playing chess and appreciating the balance of simplicity and complexity in a good game. ♟️
+
+*   **Chess.com**: [tacticaimaniac](https://www.chess.com/member/tacticaimaniac)
+
+---
+
+## 🏆 Certifications
+
+*   Oracle Cloud Infrastructure Foundations Associate (1Z0-1085-25)
+
+---
+
+## ⚙️ Tech Stack
+
+### ☁️ Cloud & Infrastructure
+*   **Cloud Providers**: Oracle Cloud, Microsoft Azure, AWS
+*   **IaC**: Terraform, Ansible
+*   **Orchestration**: Kubernetes, Containerd, Docker
+
+### 📈 Observability & Data
+*   **Monitoring**: Prometheus, Grafana, Loki
+*   **Databases**: PostgreSQL, Cassandra, MySQL
+
+### 🐍 Automation & Programming
+*   **Languages**: Python, Bash, Go
+
+---
+
+## 🤝 Let's Connect
+
+You've scrolled this far—let's connect! 🚀
+
+<p>
+  <a href="https://www.linkedin.com/in/ilyas-berkani-dev/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+  </a>
+  &nbsp;
+  <a href="mailto:ilyas.berkani.dev@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
+  </a>
+</p>
+
+---
