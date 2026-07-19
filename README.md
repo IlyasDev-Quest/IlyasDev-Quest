@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/Github Banner.png" alt="Ilyas Berkani Banner" />
+  <img src="./assets/banner.png" alt="Ilyas Berkani Banner" />
 </p>
 
 ## 👋 About Me
